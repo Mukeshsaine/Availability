@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/Bookings"
+        android:title="Bookings"
+        android:icon="@drawable/booking"/>
+    <item
+        android:id="@+id/Enquiries"
+        android:title="Enquiries"
+        android:icon="@drawable/enguires"/>
+    <item
+        android:id="@+id/Availability"
+        android:title="Availability"
+        android:icon="@drawable/avibilty"/>
+    <item
+        android:id="@+id/Services"
+        android:title="Services"
+        android:icon="@drawable/servies"/>
+    <item
+        android:id="@+id/Profile"
+        android:title="Profile"
+        android:icon="@drawable/profile"/>
+</menu>

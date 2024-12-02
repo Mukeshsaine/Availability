@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="green">#4B1F4B</color>
+    <color name="yellow1">#863087</color>
+    <color name="yellow2">#4B1F4B</color>
+
+    <color name="selectedColor">#FC5CFE</color> <!-- Selected item color -->
+    <color name="unselectedColor">#fff</color> <!-- Unselected item color -->
+    <color name="bottom_nav_background">#4B1F4B</color>
+</resources>
